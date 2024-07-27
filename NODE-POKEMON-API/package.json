@@ -1,0 +1,24 @@
+{
+  "name": "node-pokemon-api",
+  "version": "1.0.0",
+  "description": "Certification NodeJs {An awesome API Rest to handled some pokemon}",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CMCode2001"
+  },
+  "keywords": [
+    "cmc"
+  ],
+  "author": "CMCode2001",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
